@@ -45,13 +45,7 @@ if(!empty($input)){
 
 // echo "<pre>"; 
 echo 'No. Of validated Strings:'.count($validated_strings);
-// echo '<br>';
-// print_r($validated_strings); //Displaying all validated strings
-// echo '<br>';
-// echo 'Display all non-validated strings';
-// echo '<br>';
-// print_r($non_validated_strings); //Displaying all non-validated strings
-// echo '<br>';
+
 
 
 // Regular expression for get string inside the brackets
